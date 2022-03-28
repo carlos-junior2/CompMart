@@ -1,0 +1,21 @@
+Regras de Verificação e Análise de Requisitos (CompMart)
+
+
+Características que serão obedecidas: 
+
+Os requisitos deverão ser claros, consistentes, coerentes, compreensíveis, modificáveis, verificáveis,
+priorizados, inequívocos, rastreáveis e de fonte credível.
+
+
+Regras: 
+
+Evitar frases grandes (Os requisitos deverão ser objetivos).
+
+Evitar tais palavras como: e, ou, somente se, exceto, se necessário, mas, contudo, entretanto, usualmente,
+geralmente, palavras que fornecem a mesma ideia que essas.
+
+
+Definir somente um requisito por vez.
+
+
+Utilizar um vocabulário fechado (Evitar vocabulário usado dentro do ambiente de trabalho do usuário).
