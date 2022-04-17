@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: linear-gradient(#BD00FF, #03B3FF);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  position: absolute;
+  top: 65px;
+  color: white;
+}
+
+main.container{
+  position: absolute;
+  top: 340px;
+}
+
+.input-field{
+  opacity: 0.6;
+}
+
+form .input-field:first-child{
+  margin-bottom: 8px;
+}
+
+.input-field input{
+  width: 280px;
+  height: 40px;
+}
+
+.input-field input::placeholder{
+  position: relative;
+  left: 7px;
+  color: #545454;
+}
+
+form a{
+  text-decoration: none;
+  color: black;
+}
+
+form .esqueci{
+  position: relative;
+  left: 7px;
+  top: 6px;
+}
+
+form .registrar-se{
+  position: relative;
+  left: 105px;
+}
+
+form input[type="submit"]{
+  position: relative;
+  left: 92px;
+  width: 100px;
+  height: 35px;
+  background-color: #00FF75;
+  cursor: pointer;
+  margin-top: 19px;
+}
+
