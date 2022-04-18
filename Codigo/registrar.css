@@ -28,6 +28,7 @@ form{
   justify-content: center;
   margin-top: 70px;
   flex-wrap: wrap;
+  margin-right: 30px;
 }
 
 .usuario img{
