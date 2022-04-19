@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter & display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: linear-gradient(#BD00FF, #03B3FF);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+header{
+  background-color: black;
+  width: 100%;
+  height: 50px;
+}
+
+h1{
+  display: grid;
+  justify-content: center;
+}
+
+.menu{
+  margin-top: 5px;
+  margin-right: 40px;
+  list-style: none;
+  float: right;
+}
+
+.menu img{
+  max-width: 30px;
+}
+
+.menu li{
+  margin-right: 30px;
+  position: relative;
+  float: left;
+}
+
+.menu li a{
+  text-decoration: none;
+  padding: 5px 10px;
+  display: block;
+}
+
+.menu li a:hover{
+  color: #fff;
+  box-shadow: 0 3px 10px 0 white;
+}
+
+form{
+  display: grid;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+form input{
+  margin-top: 10px;
+  height: 40px;
+  width: 280px;
+}
+
+form input::placeholder{
+  position: relative;
+  left: 7px;
+}
+
+form input[type="submit"]{
+  margin-left: 85px;
+  width: 100px;
+  height: 35px;
+  background-color: #00FF75;
+  cursor: pointer;
+  margin-top: 19px;
+}
