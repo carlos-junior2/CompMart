@@ -1,11 +1,10 @@
 # CompMart
 
 O sistema basicamente consiste em uma plataforma de vendas de cursos online, cursos voltados para área da Computação.
-Ele possui 4 páginas: Login (Autenticação), Home (Index), Lista de Cursos e Lista de Diplomas do Aluno.
-
+Ele possui 4 páginas: Login (Autenticação), Home (Index), Lista de Cursos Disponíveis e Lista de Cursos Concluidos pelo aluno.
 Seus usuários serão alunos (Clientes), professores (Vendedores).
 
-Tecnologias Usadas: 
+Tecnologias Usadas:
 HTML 5 
 CSS 3
 PHP 7
